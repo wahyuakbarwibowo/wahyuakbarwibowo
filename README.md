@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name is Wahyu. I'm ready to coderock and roll 😄
+
+- 🔭 I’m currently working on web programmer of some startup in Bojonegoro
+- 🌱 I’m currently learning ExpressJS
+- - 📫 How to reach me: IG wahyuakbarwibowo 😄
+
 <!--
 **wahyuakbarwibowo/wahyuakbarwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
