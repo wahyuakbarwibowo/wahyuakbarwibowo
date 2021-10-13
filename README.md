@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on web programmer of some startup in Bojonegoro
 - 🌱 I’m currently learning ExpressJS
-- 📫 How to reach me: IG wahyuakbarwibowo 😄
+- 📫 How to reach me: you can see me on IG @wahyuakbarwibowo 😄
 
 <!--
 **wahyuakbarwibowo/wahyuakbarwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
