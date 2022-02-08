@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning ExpressJS, Restify, Laminas, deploying website on some server.
 - 📫 How to reach me: you can see me on LinkedIn wahyuakbarwibowo or IG @wahyuakbarwibowo 😄
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wahyuakbarwibowo/wahyuakbarwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
