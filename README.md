@@ -2,8 +2,9 @@
 
 ## My name is Wahyu. I'm ready to coderock and roll 😄
 
-#### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo)](https://github.com/anuraghazra/github-readme-stats)
+#### - Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on web programmer of some startup in Bojonegoro
 - 🌱 I’m currently learning ExpressJS, Restify, Laminas, deploying website on some server.
