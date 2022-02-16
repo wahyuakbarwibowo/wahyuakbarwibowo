@@ -7,10 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo&hide=html&layout=compact&theme=dark)  
-
-<!--
-**wahyuakbarwibowo/wahyuakbarwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo&hide=html&layout=compact&theme=dark)
 
 ### Where to find me
 <p>
@@ -30,6 +27,9 @@
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     /></a>    
 </p>
+
+<!--
+**wahyuakbarwibowo/wahyuakbarwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
