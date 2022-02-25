@@ -29,7 +29,7 @@
     <a href="https://www.youtube.com/channel/UCnMyol6vd_BczZn2pivbl8A" target="_blank"
         ><img
             alt="Youtube"
-            src="https://img.shields.io/badge/youtube-%FF000000.svg?&style=for-the-badge&logo=youtube&logoColor=white"
+            src="https://img.shields.io/badge/youtube-%FFFF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"
     /></a>
 </p>
 
