@@ -26,6 +26,11 @@
             alt="LinkedIn"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     /></a>    
+    <a href="https://www.youtube.com/channel/UCnMyol6vd_BczZn2pivbl8A" target="_blank"
+        ><img
+            alt="Youtube"
+            src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"
+    /></a>
 </p>
 
 <!--
