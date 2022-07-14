@@ -2,7 +2,7 @@
 
 ## My name is Wahyu. I'm ready to coderock and roll 😄
 
-- 🔭 I’m currently working on full stack programmer of Skyrain Studio in Bojonegoro
+- 🔭 I’m currently working on full stack programmer of Skyrain Studio
 - 🌱 I’m currently learning NodeJs, ExpressJS, Restify, Laminas, deploying website on some server.
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
