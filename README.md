@@ -2,13 +2,14 @@
 
 ## My name is Wahyu. I'm ready to coderock and roll 😄
 
-- 🔭 I’m currently working on full stack programmer of Skyrain Studio
+- 🔭 I’m currently working on backend developer of Skyrain Studio
 - 🌱 I’m currently learning NodeJs.
+- ⚡ Fun fact: ...
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### Where to find me
+### How to reach me
 <p>
     <a href="https://github.com/wahyuakbarwibowo" target="_blank"
         ><img
