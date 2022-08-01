@@ -16,11 +16,6 @@
             alt="Github"
             src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
     /></a>
-    <a href="https://twitter.com/wahyuakbarw" target="_blank"
-        ><img
-            alt="Twitter"
-            src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-    /></a>
     <a href="https://www.linkedin.com/in/wahyu-akbar-wibowo/" target="_blank"
         ><img
             alt="LinkedIn"
@@ -33,7 +28,7 @@
     /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo&hide=html&layout=compact&theme=dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuakbarwibowo&hide=html&layout=compact&theme=dark)-->
 
 <!--
 **wahyuakbarwibowo/wahyuakbarwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
