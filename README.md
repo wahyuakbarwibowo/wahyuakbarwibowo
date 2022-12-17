@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on backend developer of Skyrain Studio
 - 🌱 I’m currently learning NodeJs.
-- ⚡ Fun fact: ngoding JS tapi di Github ga ada project JS wkwkwkwkkwkw
+- ⚡ Fun fact: wkwkwkwkkwkw
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
