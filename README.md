@@ -3,7 +3,7 @@
 ## My name is Wahyu. I'm ready to coderock and roll 😄
 
 - 🔭 I’m currently working as Web Engineer
-- 🌱 I’m currently using Node.js and Go
+- 🌱 I’m currently using Node.js, Go and Rust
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuakbarwibowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
