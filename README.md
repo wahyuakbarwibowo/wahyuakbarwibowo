@@ -2,7 +2,7 @@
 
 ## My name is Wahyu. I'm ready to coderock and roll 😄
 
-- 🔭 I’m currently open to work as Software Development Engineer
+- 🔭 I’m currently open to work as Software Development Engineer or Fullstack Developer
 - 🌱 I’m currently learning Go, Rust, Node.js and PHP
 
 ### How to reach me
