@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently open to work and open to projects as Software Development Engineer or Fullstack Developer
 - 🌱 I’m currently learning Go, Rust, Node.js and PHP
+- 
 
 ### How to reach me
 <p>
