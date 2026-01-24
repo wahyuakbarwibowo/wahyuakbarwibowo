@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently open to work and open to projects as Software Development Engineer or Fullstack Developer
 - 🌱 I’m currently learning Go, Rust, Node.js and PHP
-- ❔ I'm learning about system design
+- ❔ I'm learning about System Design
 
 ### How to reach me
 <p>
