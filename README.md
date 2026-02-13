@@ -50,6 +50,9 @@ I enjoy building scalable systems and crafting clean architecture.
   <a href="https://www.linkedin.com/in/wahyu-akbar-wibowo/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/wahyuakbar.dev">
+    <img src="https://img.shields.io/badge/Instagram-@wahyuakbar.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
