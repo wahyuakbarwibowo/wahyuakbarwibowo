@@ -2,7 +2,16 @@
 
 🚀 Software Engineer | Fullstack Developer | Backend Enthusiast  
 
-I enjoy building scalable systems and crafting clean architecture.
+I build scalable systems, craft clean architecture, and turn ideas into real-world applications.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Open to work as **Software Development Engineer** or **Fullstack Developer**
+- 🌱 Currently learning: **Go, Rust, Node.js, PHP**
+- 🧠 Exploring: **System Design & Requirement Engineering**
+- ⚡ Interested in **IoT & Distributed Systems**
 
 ---
 
@@ -14,6 +23,20 @@ I enjoy building scalable systems and crafting clean architecture.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
+---
+
+## ⭐ Featured Project
+
+### 🛒 Aminmart Cashier System
+Point of Sale (POS) web application designed to simplify cashier operations and transaction management.
+
+🔹 Manage products & categories  
+🔹 Handle transactions efficiently  
+🔹 Designed for small-to-medium retail businesses  
+
+🌐 Live Demo:  
+👉 https://wahyuakbarwibowo.github.io/aminmart-cashier/
 
 ---
 
