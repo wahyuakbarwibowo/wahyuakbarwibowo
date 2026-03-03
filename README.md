@@ -11,7 +11,7 @@ I build scalable systems, craft clean architecture, and turn ideas into real-wor
 - 🔭 Open to work as **Software Development Engineer** or **Fullstack Developer**
 - 🌱 Currently learning: **Go, Rust, Node.js, PHP**
 - 🧠 Exploring: **System Design & Requirement Engineering**
-- ⚡ Interested in **IoT & Distributed Systems**
+- ⚡ Interested in **IoT & Distributed Systems**.
 
 ---
 
