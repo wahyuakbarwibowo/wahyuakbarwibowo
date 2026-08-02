@@ -1,19 +1,29 @@
 # Hi, I'm Wahyu 👋
 
 **Software Engineer — Full Stack**, based in Indonesia (UTC+7).
-I build things with Kotlin, and I care more about systems that stay simple at scale than ones that look clever on day one.
+I build backends in **Go** and **Rust**, ship frontends with **Node.js**, and care more about systems that stay simple at scale than ones that look clever on day one.
 
-```kotlin
-val wahyu = Developer(
-    focus    = listOf("Scalable systems", "Clean architecture"),
-    daily    = listOf("Kotlin", "Node.js", "PHP"),
-    learning = listOf("Go", "Rust", "System design"),
-    curious  = listOf("IoT", "Distributed systems"),
-    openTo   = "SDE / Fullstack roles"
-)
+```go
+type Engineer struct {
+	Focus    []string
+	Backend  []string
+	Frontend []string
+	Curious  []string
+	OpenTo   string
+}
+
+var wahyu = Engineer{
+	Focus:    []string{"Scalable systems", "Clean architecture"},
+	Backend:  []string{"Go", "Rust", "Node.js"},
+	Frontend: []string{"TypeScript", "React"},
+	Curious:  []string{"IoT", "Distributed systems"},
+	OpenTo:   "SDE / Fullstack roles",
+}
 ```
 
-### 🔨 What I've built
+### 🔨 Side projects
+
+Go and Rust pay the bills; Kotlin is where I build for myself — small Android apps that solve my own problems.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -24,7 +34,7 @@ val wahyu = Developer(
 
 ### 🧰 Toolbox
 
-`Kotlin` · `Java` · `Node.js` · `PHP` · `Go` · `PostgreSQL` · `Docker` · `Git`
+`Go` · `Rust` · `Node.js` · `TypeScript` · `Kotlin` · `PostgreSQL` · `Redis` · `Docker` · `Git`
 
 ### 📊 Stats
 
@@ -34,4 +44,4 @@ val wahyu = Developer(
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wahyuakbar.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyuakbarwibowo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
